@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./DF053n-v.js";import"./D_HabvBj.js";import{i as n}from"./Cn6K_3Gk.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s=[[`path`,{d:`M5 12h14`}],[`path`,{d:`m12 5 7 7-7 7`}]];n(i,t({name:`arrow-right`},()=>o,{get iconNode(){return s}}))}export{i as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./D_HabvBj.js";var t=()=>`Back to the overview`,n=()=>`Zurück zur Übersicht`,r=((r={},i={})=>(i.locale??e())===`en`?t(r):n(r));export{r as t};

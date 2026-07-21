@@ -1,0 +1,1 @@
+import{n as e}from"./D_HabvBj.js";function t(t){return t[e()]}export{t};

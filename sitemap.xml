@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://loc8ts.com</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/de</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/docs</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com/docs"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de/docs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com/docs"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/de/docs</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com/docs"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de/docs"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com/docs"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/changelog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com/changelog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de/changelog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com/changelog"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/de/changelog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com/changelog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de/changelog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com/changelog"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/roadmap</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com/roadmap"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de/roadmap"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com/roadmap"/>
+  </url>
+  <url>
+    <loc>https://loc8ts.com/de/roadmap</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loc8ts.com/roadmap"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://loc8ts.com/de/roadmap"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://loc8ts.com/roadmap"/>
+  </url>
+</urlset>

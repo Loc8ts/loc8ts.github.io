@@ -1,0 +1,1 @@
+import{n as e}from"./D_HabvBj.js";var t=()=>`View the changelog`,n=()=>`Zum Changelog`,r=((r={},i={})=>(i.locale??e())===`en`?t(r):n(r));export{r as t};
