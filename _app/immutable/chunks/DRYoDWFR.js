@@ -1,0 +1,1 @@
+import{n as e}from"./BacQ_LqQ.js";var t=()=>`View the changelog`,n=()=>`Zum Changelog`,r=((r={},i={})=>(i.locale??e())===`de`?n(r):t(r));export{r as t};

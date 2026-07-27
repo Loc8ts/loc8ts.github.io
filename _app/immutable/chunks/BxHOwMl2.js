@@ -1,0 +1,1 @@
+import{n as e}from"./BacQ_LqQ.js";function t(t){return t[e()]}export{t};

@@ -1,0 +1,1 @@
+import{n as e}from"./BacQ_LqQ.js";var t=()=>`Back to the overview`,n=()=>`Zurück zur Übersicht`,r=((r={},i={})=>(i.locale??e())===`de`?n(r):t(r));export{r as t};

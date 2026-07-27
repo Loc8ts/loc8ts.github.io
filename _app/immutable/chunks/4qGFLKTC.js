@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./Cfqcw7Tk.js";import"./BacQ_LqQ.js";import{i as n}from"./YIyuxlsu.js";var r=new Set([`$$slots`,`$$events`,`$$legacy`]);function i(i,a){let o=e(a,r),s=[[`path`,{d:`m12 19-7-7 7-7`}],[`path`,{d:`M19 12H5`}]];n(i,t({name:`arrow-left`},()=>o,{get iconNode(){return s}}))}export{i as t};
