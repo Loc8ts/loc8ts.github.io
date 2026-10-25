@@ -1,0 +1,1 @@
+import{n as e}from"./vA84O1w2.js";function t(t){return t[e()]}export{t};
