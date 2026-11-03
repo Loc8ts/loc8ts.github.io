@@ -1,0 +1,1 @@
+import{n as e}from"./vA84O1w2.js";var t=((t={},n={})=>(n.locale??e())===`de`?`Zurück zur Übersicht`:`Back to the overview`);export{t};

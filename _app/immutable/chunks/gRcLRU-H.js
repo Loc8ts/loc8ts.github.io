@@ -1,0 +1,1 @@
+import{n as e}from"./vA84O1w2.js";var t=((t={},n={})=>(n.locale??e())===`de`?`Zum Changelog`:`View the changelog`);export{t};
